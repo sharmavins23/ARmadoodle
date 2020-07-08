@@ -1,10 +1,6 @@
 # ARmadoodle
 
-Code: https://github.com/sharmavins23/ARmadoodle
-Creator: Vins Sharma
-Description: An AR application that draws points in 3D space.
-Screenshots and Shareables: https://cdn.discordapp.com/attachments/714206938719715429/728786550263119932/Screenshot_20200703-213447.jpg
-Status: Finished
+![img](https://cdn.discordapp.com/attachments/714206938719715429/728786550263119932/Screenshot_20200703-213447.jpg)
 
 All assets used were created by **[Poly by Google](https://poly.google.com/user/4aEd8rQgKu2)**. These were published under a Public/Remixable (CC-BY) license.
 
